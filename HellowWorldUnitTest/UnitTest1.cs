@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using HelloWorldTeamCity;
 using System.Windows.Forms;
 
-namespace HellowWorldUnitTest {
+namespace HelloWorldUnitTest {
     [TestClass]
     public class UnitTest1 {
         [TestMethod]
