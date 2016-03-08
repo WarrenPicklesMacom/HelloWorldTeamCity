@@ -9,8 +9,7 @@ namespace HelloWorldUnitTest {
         [TestMethod]
         public void TestMethod1( ) {
             HelloWorldForm helloWorldForm = new HelloWorldForm( );
-            //Assert.AreEqual( "Hello World!", helloWorldForm.label1.Text );
-            Assert.AreEqual( true, false );
+            Assert.AreEqual( "Hello World!", helloWorldForm.label1.Text );
         }
     }
 }
