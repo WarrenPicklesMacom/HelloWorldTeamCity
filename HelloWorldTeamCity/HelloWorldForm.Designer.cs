@@ -61,11 +61,11 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(189, 219);
+            this.label3.Location = new System.Drawing.Point(13, 221);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(72, 13);
             this.label3.TabIndex = 6;
-            this.label3.Text = "new-branch-2";
+            this.label3.Text = "new-branch-1";
             // 
             // HelloWorldForm
             // 
