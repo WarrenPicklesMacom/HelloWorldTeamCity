@@ -13,6 +13,7 @@ namespace HelloWorldTeamCity {
 
         public HelloWorldForm( ) {
             InitializeComponent( );
+            // Edit from new-branch-1
         }
 
         private void buttonOK_Click( object sender, EventArgs e ) {
