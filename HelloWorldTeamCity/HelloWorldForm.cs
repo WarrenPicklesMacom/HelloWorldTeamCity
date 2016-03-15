@@ -19,6 +19,7 @@ namespace HelloWorldTeamCity {
         private void buttonOK_Click( object sender, EventArgs e ) {
             this.DialogResult = DialogResult.OK;
             this.Close( );
+            // Edit from new-branch-2
         }
 
     }
