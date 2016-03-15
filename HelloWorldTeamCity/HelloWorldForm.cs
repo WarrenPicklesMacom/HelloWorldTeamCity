@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace HelloWorldTeamCity {
     public partial class HelloWorldForm : Form {
-
+        // new-branch-2 change, conflicts with new-branch-1
         public HelloWorldForm( ) {
             InitializeComponent( );
         }
